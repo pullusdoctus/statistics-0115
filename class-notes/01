@@ -1,0 +1,20 @@
+2025/03/13
+
+Parametrical Statistics
+- Normalized data (Gauss distribution, bell curve): (average and variation)
+
+Non-parametrical Statistics
+- Unnormalized data: median
+
+Descriptive Statistic Measurements
+- Measurements of central tendency
+  . Mean: the arithmetic mean, or the average. Sum of elements in set divided by number of elements in set.
+  . Median: given a set of numbers arranged in increasing magnitude, the median is the middle number.
+  . Mode: the most common element in a set of elements. The element with most appearances.
+- Measurements of variation
+  . Range: the difference between the highest and lowest values in a set.
+  . Variance: the distance between each element and the mean.
+  . Standard deviation: how far individual points in a dataset relative to its mean. The square root of the variance.
+  . Covariance: the distance between two random variables.
+
+
